@@ -1,0 +1,5 @@
+Aplikasi ini dibuat untuk menjadi syarat UTS mata kuliah praktikum mobile programing.
+Fitur-fitur yang ada di dalam aplikasi ini yaitu user dapat memesan makanan, kemudian dapat
+melihat detail dari setiap menu yang ada di aplikasi ini. user juga dapat langsung mengetahui
+jumlah pembayaran yang harus dibayarkan. dan juga user dapat mem-booking meja jika ingin datang
+langsung ke warteg McD ini.
